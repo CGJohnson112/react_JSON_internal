@@ -1,3 +1,8 @@
+<img width="1304" alt="Screen Shot 2020-04-21 at 6 49 12 PM" src="https://user-images.githubusercontent.com/22375594/79925788-dd8b9400-8400-11ea-8050-d421e1c0036b.png">
+
+This is a basic way to show data from a JSON file onto the App.js page. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
