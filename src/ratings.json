@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Mark Dice",
+        "rating": 5,
+        "likes": {
+            "sport": "fishing",
+            "eats": "Burger Dog"
+        }
+    }, {
+        "id": 2,
+        "name": "John Hagee",
+        "rating": 1,
+        "likes": {
+            "sport": "hockey",
+            "eats": "Pussy"
+        }
+    }, {
+        "id": 3,
+        "name": "Xi Jinping",
+        "rating": 2,
+        "likes": {
+            "sport": "fishing",
+            "eats": "bats"
+        }
+    }, {
+        "id": 4,
+        "name": "Saddam Hussein",
+        "rating": 2,
+        "likes": {
+            "sport": "golf",
+            "eats": "WacArnold's"
+        }
+    }
+]
