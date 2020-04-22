@@ -1,6 +1,6 @@
 This program takes a file of JSON data, lists the data: it also contains a for loop which goes through the data to collect the ratings, add them up, divide them by the length of the ratings, and then post the ratings in an HTML component in the DOM. 
 
-
+<img width="1351" alt="Screen Shot 2020-04-22 at 3 49 49 AM" src="https://user-images.githubusercontent.com/22375594/79961512-73004580-844c-11ea-9dbf-ca9c8acf0bf3.png">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
