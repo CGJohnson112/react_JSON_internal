@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Mark Dice",
-        "rating": 5,
+        "rating": 4,
         "likes": {
             "sport": "fishing",
             "eats": "Burger Dog"
@@ -10,7 +10,7 @@
     }, {
         "id": 2,
         "name": "John Hagee",
-        "rating": 1,
+        "rating": 2,
         "likes": {
             "sport": "hockey",
             "eats": "Pussy"
